@@ -8,7 +8,7 @@ REVIEW DOCUMENTATION https://github.com/anuraghazra/github-readme-stats
 </a>
 -->
 
-## Salvador Vilca - @talktosalvador
+## Sal - @talktosalvador
 
 Hello, I am Sal, Systems Engineer. I am passionate about the world of software development. I have worked on web projects in 3D using Three.js (in JS, React, and Webflow). Currently, I work on iOS projects with Swift and SwiftUI, and soon I have plans to work on projects for VisionOS.
 
