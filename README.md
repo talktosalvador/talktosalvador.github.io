@@ -1,13 +1,3 @@
-<!---
-REVIEW DOCUMENTATION https://github.com/anuraghazra/github-readme-stats
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=talktosalvador&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&hide_title=true&theme=dracula" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=talktosalvador&langs_count=3&hide_title=true&hide_border=true&theme=dracula" />
-</a>
--->
-
 ## Sal - @talktosalvador
 
 Hello, I am Sal, Systems Engineer. I am passionate about the world of software development. I have worked on web projects in 3D using Three.js (in JS, React, and Webflow). Currently, I work on iOS projects with Swift and SwiftUI, and soon I have plans to work on projects for VisionOS.
